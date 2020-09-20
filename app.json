@@ -1,0 +1,31 @@
+{
+  "expo": {
+<<<<<<< HEAD
+    "name": "Tugas14",
+    "slug": "Tugas14",
+=======
+    "name": "Tugas13",
+    "slug": "Tugas13",
+>>>>>>> 0bc81577e6f73b9a0452066d16b0cfe1881690e7
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
